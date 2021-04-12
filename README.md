@@ -1,1 +1,1 @@
-# studier-3
+# Funksjonell programmering
